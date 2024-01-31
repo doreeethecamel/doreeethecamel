@@ -38,8 +38,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://instagram.com/doreeethecamel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/doreeethecamel" height="30" width="40" /></a>
-</p>
-<p align="left">
+
+
 <a href="[https://x.com/https://x.com/nai_singoi]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[https://x.com/https://x.com/nai_singoi]" height="30" width="40" /></a>
 </p>
 
