@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm a web developer on Github and currently trying to find ways to have fun in all projects I code.
+
 
 <!--
 **doreeethecamel/doreeethecamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
