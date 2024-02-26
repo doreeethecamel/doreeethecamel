@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">hey what's up?</h2>
+<h2 align="center">hey 👋 what's up?</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">about me!!</h2>
+<h2 align="center"> ❓about me!!</h2>
 
 ###
 
@@ -63,9 +63,9 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/doreeethecamel/doreeethecamel/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
 
@@ -75,7 +75,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/DoreliesSiloma">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=DoreliesSiloma&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sk8x12jlkq2gf5wzqdqq4fopw&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
